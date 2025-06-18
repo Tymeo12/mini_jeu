@@ -1,0 +1,15 @@
+/workspaces/mini_jeu/morpion/obj/Debug/net8.0/morpion.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/mini_jeu/morpion/obj/Debug/net8.0/morpion.AssemblyInfoInputs.cache
+/workspaces/mini_jeu/morpion/obj/Debug/net8.0/morpion.AssemblyInfo.cs
+/workspaces/mini_jeu/morpion/obj/Debug/net8.0/morpion.csproj.CoreCompileInputs.cache
+/workspaces/mini_jeu/morpion/obj/Debug/net8.0/morpion.sourcelink.json
+/workspaces/mini_jeu/morpion/bin/Debug/net8.0/morpion
+/workspaces/mini_jeu/morpion/bin/Debug/net8.0/morpion.deps.json
+/workspaces/mini_jeu/morpion/bin/Debug/net8.0/morpion.runtimeconfig.json
+/workspaces/mini_jeu/morpion/bin/Debug/net8.0/morpion.dll
+/workspaces/mini_jeu/morpion/bin/Debug/net8.0/morpion.pdb
+/workspaces/mini_jeu/morpion/obj/Debug/net8.0/morpion.dll
+/workspaces/mini_jeu/morpion/obj/Debug/net8.0/refint/morpion.dll
+/workspaces/mini_jeu/morpion/obj/Debug/net8.0/morpion.pdb
+/workspaces/mini_jeu/morpion/obj/Debug/net8.0/morpion.genruntimeconfig.cache
+/workspaces/mini_jeu/morpion/obj/Debug/net8.0/ref/morpion.dll
